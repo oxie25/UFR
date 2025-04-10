@@ -1,0 +1,41 @@
+Solute,Solvent,Solute SMILES,Solvent SMILES,Temp (K),ln gamma,Source
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,278.15,1.644998088,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,283.15,1.636079843,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,288.15,1.625901638,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,293.15,1.618001143,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,298.15,1.609037832,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,303.15,1.599993454,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,306.15,1.594933226,Wu
+Glycolide,Ethyl acetate,O=C1COC(=O)CO1,CCOC(C)=O,308.15,1.592088274,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,278.15,5.485004381,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,283.15,5.389984555,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,288.15,5.298017322,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,293.15,5.208994229,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,298.15,5.123011145,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,303.15,5.039028369,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,306.15,4.990976656,Wu
+Glycolide,1-propanol,O=C1COC(=O)CO1,CCCO,308.15,4.958991061,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,278.15,5.003006267,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,283.15,4.915005063,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,288.15,4.831030045,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,293.15,4.749010756,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,298.15,4.670021158,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,303.15,4.592996385,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,306.15,4.547964712,Wu
+Glycolide,2-propanol,O=C1COC(=O)CO1,CC(C)O,308.15,4.518958489,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,278.15,4.624972813,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,283.15,4.544039186,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,288.15,4.464988155,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,293.15,4.389002248,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,298.15,4.31602037,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,303.15,4.24506078,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,306.15,4.203946072,Wu
+Glycolide,ethanol,O=C1COC(=O)CO1,CCO,308.15,4.176078147,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,278.15,5.278012613,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,283.15,5.237983328,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,288.15,5.196007748,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,293.15,5.153984996,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,298.15,5.111023468,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,303.15,5.068023311,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,306.15,5.042004754,Wu
+Glycolide,1-butanol,O=C1COC(=O)CO1,CCCCO,308.15,5.024998317,Wu
