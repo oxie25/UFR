@@ -1,5 +1,5 @@
 # UFR (Universal Fundamental Relations)
-
+[![DOI](https://zenodo.org/badge/963986439.svg)](https://doi.org/10.5281/zenodo.15380776)
 ## Overview
 
 UFR is a free energy thermodynamic model for learning pure component parameters which can accurately predict liquid phase properties. The current UFR model is calibrated on infinite dilution activity coefficient (IDAC) data of binary liquid mixtures. With the calibrated model, the activity coefficients across the composition range for any binary mixture of components present in the calibration dataset can be predicted, and correspondingly the full vapor-liquid equilibrium curves (T-x-y and P-x-y) as well as liquid-liquid curves. Through data truncation, the models are guaranteed to not overfit onto the dataset.
