@@ -26,7 +26,7 @@ The code has only been tested on a Windows operating system using Python 3.10.14
 git clone https://github.com/oxie25/UFR.git
 cd UFR
 
-conda create -f environment.yml
+conda env create -f environment.yml
 conda activate ufr
 ```
 
